@@ -15,3 +15,5 @@ Sono una ragazza curiosa, solare e testarda. Sono una scout
 - un nuovo linguaggio di programmazione
 - lavorare con l'AI
 - nuovi concetti su API REST
+
+*"Lasciate il mondo un po' migliore di come lo avete trovato"* - BP
