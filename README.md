@@ -1,16 +1,17 @@
-## Hi there 👋
+# Elena Bozza
 
-<!--
-**ele-bozza/ele-bozza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sono una studentessa di informatica, frequento il quinto anno delle superiori.
+Sono una ragazza curiosa, solare e testarda. Sono una scout
 
-Here are some ideas to get you started:
+**Cosa mi piace:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- muisca rock, rap e pop
+- la pallavolo e il nuoto
+- film d'avventura/azione e rom-com
+- leggere
+
+**Cosa voglio imparare:**
+
+- un nuovo linguaggio di programmazione
+- lavorare con l'AI
+- nuovi concetti su API REST
